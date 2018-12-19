@@ -27,8 +27,9 @@ It intentionally uses simple Python, avoiding list comprehensions, lambda functi
 
 ### Titanic
 
-Many beginning Data Science students have a Titanic presentation; here is mine from a few years ago. This is from my first Data Science class and where I realized that data can tell a story.
+Many beginning Data Science students have a Titanic presentation; here is mine from a few years ago. This is from my first Data Science class and it's where I realized that data can tell a story.
 
+https://github.com/BillGrieser/Portfolio/blob/master/Titanic.pdf
 
 
 
