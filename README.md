@@ -21,4 +21,14 @@ This is a Jupyter Notebook, which can be run in Google Colab.
 
 This Jupyter Notebook is something I did for a beginning programming class at a local Middle School. The audience is 7th-graders who are new to both programming and Python. This illustrates machine learning concepts such as training data and error functions through a program that breaks a Caesar Cipher after learning what English text look like.
 
+https://github.com/BillGrieser/Portfolio/blob/master/Breaking-Caesar-ML-for-New-Programmers.ipynb
+
 It intentionally uses simple Python, avoiding list comprehensions, lambda functions, and even library includes. The goal is that a beginner can understand how it works and become introduced to the essence of Machine Learning.
+
+### Titanic
+
+Many beginning Data Science students have a Titanic presentation; here is mine from a few years ago. This is from my first Data Science class and where I realized that data can tell a story.
+
+
+
+
